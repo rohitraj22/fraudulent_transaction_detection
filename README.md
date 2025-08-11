@@ -26,7 +26,7 @@ The `fraud_detection.py` script launches a Streamlit web application that allows
 * Input transaction details through an intuitive interface.
 * Receive instant predictions on whether a transaction is fraudulent.
 
-## ⚙️ Installation
+##  Installation
 
 To get started with this project, ensure you have Python installed. Then, install the required libraries:
 
