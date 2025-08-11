@@ -4,6 +4,12 @@
 
 This project is dedicated to identifying fraudulent financial transactions through a machine learning model. It features a comprehensive Jupyter notebook detailing the model's development and a Streamlit application for interactive, real-time predictions.
 
+## Dataset
+
+The model is trained on the `Fraud.csv` dataset. The dataset has been obtained from the source - https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
+The details of the variables used in the dataset have been provided in the `Data Dictionary.txt` file
+
 ## Features
 
 * **Exploratory Data Analysis (EDA):** In-depth analysis to uncover patterns and insights related to fraudulent activities.
@@ -11,9 +17,16 @@ This project is dedicated to identifying fraudulent financial transactions throu
 * **Machine Learning Model:** A logistic regression model trained to distinguish between fraudulent and legitimate transactions.
 * **Interactive Web App:** A user-friendly Streamlit application for real-time fraud detection.
 
-## Dataset
+## Tools and Technologies
 
-The model is trained on the `Fraud.csv` dataset. The details of the variables used in the dataset have been provided in the `Data Dictionary.txt` file
+* **Python:** The core programming language used for the project.
+* **Pandas:** For data manipulation, cleaning, and analysis.
+* **NumPy:** For numerical operations and handling arrays.
+* **Scikit-learn:** For building and evaluating the machine learning model.
+* **Matplotlib & Seaborn:** For data visualization and creating informative plots.
+* **Jupyter Notebook:** For interactive model development and EDA.
+* **Streamlit:** For creating and deploying the interactive web application.
+* **Joblib:** For saving and loading the trained model.
 
 ## Model Details
 
