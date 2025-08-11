@@ -41,11 +41,14 @@ The `fraud_detection.py` script launches a Streamlit web application that allows
 
 ##  Installation
 
-To get started with this project, ensure you have Python installed. Then, install the required libraries:
+1.  **Libraries:**
+    To get started with this project, ensure you have Python installed. Then, install the required libraries:
 
-```bash
-pip install pandas numpy scikit-learn streamlit joblib
-```
+    ```bash
+    pip install pandas numpy scikit-learn streamlit joblib
+    ```
+2. **Dataset:**
+   Download the dataset from the Kaggle platform. Link - https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
 
 ## Usage
 
