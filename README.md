@@ -13,7 +13,7 @@ This project is dedicated to identifying fraudulent financial transactions throu
 
 ## Dataset
 
-The model is trained on the `Fraud.csv` dataset. The details of the dataset have been provided in the 'Data Dictionary.txt' file
+The model is trained on the `Fraud.csv` dataset. The details of the dataset have been provided in the `Data Dictionary.txt` file
 
 ## Model Details
 
